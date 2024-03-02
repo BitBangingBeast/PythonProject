@@ -1,4 +1,4 @@
-# Screen Shot
+# ScreenShot
 
 ![Alt text](Projects.png
 )
